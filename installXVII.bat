@@ -1,5 +1,5 @@
 @echo off
-set LIB_ID=LTspiceControlLibrary
+set LIB_ID=ControlLibrary
 set LIB_NAME=LTspice Control Library
 
 set LTSPICE_ID=LTspiceXVII
